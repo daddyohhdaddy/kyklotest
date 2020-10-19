@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.top-container {
+  margin: 0;
+  background-color: #432463;
+  height: 87;
+}
+
+.subtitle {
+  padding: 5% 15% 3%;
+  font-size: 2.5rem;
+}
+
+h1 {
+
+  padding:25px;
+  color:white;
+  text-align:center;
+
+}
+
+h2 {
+  font-weight: 700;
+    line-height: 1.5;
+    color: #58595b;
+    
+
+}
+
+h3 {
+  font-weight: 700;
+  text-align: left;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+/* Features Section */
+
+#features {
+  padding: 3% 10%;
+  margin: 0 40px 0;
+  text-align: center;
+  color: #58595b;
+}
+
+ul {
+  padding: 0.5rem;
+  margin: 13px;
+  text-align: left;
+}
+
+li {
+  padding-bottom: 1.5rem!important;
+}
+
+p {
+  color: #58595b;
+}
+
+.secondcolumn {
+  padding-left: 2rem;
+}
+
+/* Featured Brands Section */
+
+#brands {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.brand-logo {
+  width: 25%;
+  margin: 10px 20px;
+}
